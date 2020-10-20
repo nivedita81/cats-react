@@ -1,0 +1,51 @@
+html {
+    font-size: 50px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: white;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 25px;
+    max-width: 750px;
+}
+
+.pawsList {
+    margin-top: 10px;
+}
+
+.paws {
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px rgba(0 , 0, 0, 0.25);
+    margin-bottom: 4px;
+    background-color: whitesmoke;
+}
+
+.pawsContent h2 {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.pawsContent img {
+    max-width: 90%;
+}
